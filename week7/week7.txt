@@ -1,1 +1,3 @@
-server IP and both domains
+Server IP: 104.131.101.93
+Both domains: www.stieberc.me
+              www.subdomain.stieberc.me
