@@ -1,3 +1,0 @@
-IP: 104.131.101.93
-Domain: www.stieberc.me
-Subdomain: www.subdomain.stieberc.me
